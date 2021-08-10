@@ -10,7 +10,7 @@ btn.style.display = "block";
 btn.style.border = "1px solid #ccc";
 btn.style.borderRadius = "4px";
 btn.style.color = "#fff";
-btn.style.pointer = "cursor";
+btn.style.cursor = "pointer";
 switch(c)
   {
     case 'red':btn.style.backgroundColor="#f00"; break;
